@@ -1,0 +1,160 @@
+.hero
+{
+      background-size: cover;
+}
+.times
+{
+      font-size: 1050%;
+      font-weight: 500;
+      font-family: -apple-system, BlinkMacSystemFont, "Neue Haas Grotesk Text Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+      position: relative;
+      top: -100px;
+      text-shadow: 0 1px 5px rgba(0,0,0,.1);
+      user-select: none;
+      line-height: 1;
+     
+}
+
+.greeting{
+      font-size: 335.5%;
+      font-weight: 200;
+      position: relative;
+      top: -85px;
+}
+
+
+
+.gapps
+{
+      width: 45px;
+      height: 45px;
+      background-color:#fff;
+      margin: 10px 15px;
+      border-radius: 65px;
+}
+.favourites
+{
+      width: 45px;
+      height: 45px;
+      background-color:#fff;
+      margin: 10px 15px;
+      border-radius: 65px;   
+}
+
+.settings
+{
+      width: 45px;
+      height: 45px;
+      background-color:#fff;
+      margin: 10px 15px;
+      border-radius: 65px;   
+}
+
+.bin
+{
+      width: 45px;
+      height: 45px;
+      background-color:#fff;
+      margin: 10px 15px;
+      border-radius: 65px;   
+}
+
+.tool
+{
+      margin: 15px;    
+}
+
+.google
+{
+      margin: 15px;
+}
+
+.walls
+{
+      width: 45px;
+      height: 45px;
+      background-color:#fff;
+      margin: 10px 15px;
+      border-radius: 65px;
+}
+
+.app
+{
+      width: 45px;
+      height: 45px;
+      background-color: #ffffff;
+      border-radius: 50%;
+      box-shadow: 0px 2px 5px 0px rgba(0,0,0,.5);
+}
+
+.app1
+{
+      background-image: url(../assets/google.png);
+      background-size: 45px;
+}
+.app2
+{
+      background-image: url(../assets/youtube.png);
+      background-size: 45px;
+}
+
+.preview
+{
+      height: 380px;
+      background-size: cover;
+}
+
+.preview1
+{
+      height: 380px;
+      width: 400px;
+      background-image: url(../img/fallback.jpg);
+      background-size: cover;
+}
+.weather
+{
+      width: 200px;
+      height: 100px;
+      background-color: transparent;
+      box-shadow: none;
+}
+
+
+.uname
+{
+position: absolute;
+     top:50%;
+     left: 50%;
+     width: 100%;
+     transform: translate(-50%,-50%);
+}
+
+.uname input[type="text"]
+{
+      width: 35%;
+      height: 45px;
+      border-bottom: 1px solid #ffffff;
+      border-top:0px;
+      border-right: 0px;
+      border-left: 0px;
+      background-color: transparent;
+      outline:none;
+      padding-left: 15px;
+      font-size: 30px;
+      font-weight: 100;
+      color: #ffffff;
+      text-align: center;
+}
+
+.welcome
+{
+      background-image: url('../img/fallback.jpg');
+      background-size: cover;
+}
+.next
+{
+      border: none;
+      background-color: transparent;
+      color: #ffffff;
+      border-radius: 65px;
+}
